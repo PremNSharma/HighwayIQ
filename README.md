@@ -66,4 +66,4 @@ Use reinforcement learning and simulation to study how an autonomous agent can l
 
 **Prem Sharma**
 
-GitHub: https://github.com/premsharma8168
+GitHub: https://github.com/PremNSharma
